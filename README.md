@@ -1,8 +1,8 @@
-# 📱 PropertyEase Mobile App  
+# 📱 DigitalEstateHub Mobile App  
 
 ## 🏡 Smart Property Management, Trading, and Document Digitization  
 
-PropertyEase is an AI-powered mobile application designed to simplify property management, buying, selling, and document digitization. It integrates AI models for **price prediction, document scanning (OCR), and voice-to-text conversion** to enhance user experience.
+DigitalEstateHub is an AI-powered mobile application designed to simplify property management, buying, selling, and document digitization. It integrates AI models for **price prediction, document scanning (OCR), and voice-to-text conversion** to enhance user experience.
 
 ---
 
